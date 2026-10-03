@@ -2,10 +2,17 @@
 
 > **An advanced Retrieval-Augmented Generation (RAG) platform with multi-source ingestion (PDFs, Webpages, YouTube Videos), semantic ChromaDB search, and real-time streaming LLM synthesis.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://gyansetu-ai-rgqjodipk9anx7qvqe4yh2.streamlit.app/)
 [![Author](https://img.shields.io/badge/Author-Himanshu%20Singh%20Yadav-blue?style=for-the-badge&logo=github)](https://github.com/Himanshusinghyadavup61)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.65-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-Enabled-1C3C3C?style=for-the-badge)](https://langchain.com/)
+
+---
+
+### 🌐 Live Application
+Experience the platform live in your browser:  
+👉 **[https://gyansetu-ai-rgqjodipk9anx7qvqe4yh2.streamlit.app/](https://gyansetu-ai-rgqjodipk9anx7qvqe4yh2.streamlit.app/)**
 
 ---
 
