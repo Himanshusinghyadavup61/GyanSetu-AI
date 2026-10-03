@@ -1,53 +1,29 @@
+# Core Framework
 langchain
 langchain-core
 langchain-community
+langchain-chroma
 langchain-huggingface
-
-# LLM Providers
-
-langchain-openai
 langchain-mistralai
-openai
-mistralai
+langchain-text-splitters
 
-# Vector Database
-
+# Vector Database & Embeddings
 chromadb
-
-# Embedding Models
-
 sentence-transformers
+torch
+torchvision
 
-# Document Loaders dependencies
-
+# Document Loaders & Extractors
 pypdf
-unstructured
+youtube-transcript-api
 beautifulsoup4
 lxml
 
-# Text Processing
-
-tiktoken
-
-# Environment Variables
-
+# Data & Environment
 python-dotenv
-
-# Data Handling
-
 pandas
 numpy
-
-# API / App Layer (optional but common in RAG apps)
-
-fastapi
-uvicorn
-
-# UI (optional)
-
-streamlit
-
-# Utilities
-
-tqdm
 requests
+
+# UI App
+streamlit
