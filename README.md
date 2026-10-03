@@ -9,11 +9,6 @@
 
 ---
 
-## 👨‍💻 Created by
-**Himanshu Singh Yadav**
-
----
-
 ## 🚀 Key Features
 
 - **Multi-Source Document Ingestion**:
