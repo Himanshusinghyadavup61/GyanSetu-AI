@@ -117,3 +117,10 @@ Open **[http://localhost:8501](http://localhost:8501)** in your browser.
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  <b>Created with ❤️ by <a href="https://github.com/Himanshusinghyadavup61">Himanshu Singh Yadav</a></b>
+</p>
+
