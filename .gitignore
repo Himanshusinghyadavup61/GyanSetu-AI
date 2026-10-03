@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment Variables & Secrets (CRITICAL: Never commit to GitHub)
+.env
+.env.*
+!.env.example
+
+# Vector databases & temporary caches
+chroma-db/
+*.db
+*.sqlite3
+
+# Temporary uploaded files
+documents loader/temp_*
+temp_*
+
+# IDE & Editor caches
+.idea/
+.vscode/
+*.swp

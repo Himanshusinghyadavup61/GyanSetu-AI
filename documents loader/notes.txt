@@ -1,0 +1,3 @@
+Artificial Intelligence is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+Retrieval Augmented Generation, or RAG, combines information retrieval with a language model. It retrieves relevant documents and provides them as context to the language model before generating an answer.
